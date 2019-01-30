@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster);
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400italic);
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:700);
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:700italic);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400italic);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:700italic);
 
 /* This file will hold styles for the mobile version of your website (mobile first). */
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
@@ -811,5 +811,3 @@ margin-top: -23px;
 body.logged-in{
 	padding-top: 29px !important;
 }
-
-
