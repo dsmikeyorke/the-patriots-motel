@@ -2,18 +2,17 @@
 /* If you are using the default media queries provided by Omega, these styles will also
  *  apply to the widescreen layout unless they are overridden by the widescreen styles. */
 .zone-header-wrapper {
-	background-position:1px 121px;
+  background-position: 1px 121px;
 }
 
 .region-user-first-inner #block-block-1 .content {
-	padding:4px 0 5px;
-
+  padding: 4px 0 5px;
 }
 
-.view-rooms .views-field-field-images li{
-    width:132px;
+.view-rooms .views-field-field-images li {
+  width: 128px;
 }
 
-.view-rooms .views-field-field-images li:nth-child(4n+4){
-margin-right:0px;
+.view-rooms .views-field-field-images li:nth-child(4n+4) {
+  margin-right: 0px;
 }
